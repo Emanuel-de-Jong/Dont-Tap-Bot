@@ -1,4 +1,4 @@
-# DontTapHack
+# Dont-Tap-Bot
  
 ## Description
 Automates the game: donttap.com
