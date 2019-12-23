@@ -6,6 +6,7 @@ Automates the game: donttap.com
 
 ## Information
 - Type: Script
+- For: Don't Tap
 - Programming languages: Python
 - Frameworks and libraries: PIL
 
@@ -17,4 +18,4 @@ Automates the game: donttap.com
 
 
 ## Screenshots
-![](/Screenshots/Game.png)
+![Game](/Screenshots/Game.png)
