@@ -6,7 +6,7 @@ Automates the game [donttap](donttap.com).
 
 | | |
 | :---: | :---: |
-| ![](/Screenshots/1-Game) | ![](/Screenshots/2) |
+| ![](/Screenshots/1-Game.png) | ![](/Screenshots/.png) |
 
 ## Information
 - Type: Script
