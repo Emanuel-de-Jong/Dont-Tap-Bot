@@ -13,3 +13,4 @@ Automates the game [donttap](donttap.com).
 - For: Don't Tap
 - Programming languages: Python
 - Frameworks and libraries: PIL
+ 
